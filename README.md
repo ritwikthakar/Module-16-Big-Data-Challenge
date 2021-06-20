@@ -19,4 +19,6 @@ Amazon's customers rely on product reviews to make a decision for a product purc
 - 51.06% of the Vine Reviews were rated 5 Star.
 - 38.70% of the Non Vine Reviews were rated 5 Star
 
+Results of the above analysis can be seen using the following link
 
+<a href="https://github.com/ritwikthakar/Module-16-Big-Data-Challenge/blob/main/Vine_Review_Analysis.ipynb">Vine_Review_Analysis.ipynb</a>: Vine_Review_Analysis on Vine Reviews
